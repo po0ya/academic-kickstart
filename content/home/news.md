@@ -11,6 +11,12 @@ subtitle = ""
 weight = 65
 
 +++
+Upcoming:
+- Apr18: DefenseGAN source code will be released.
+- Mar18: Face-MagNet code will be released.
+
+Past:
+- Mar18: Face-MagNet paper is published in WACV18 and is on [arxiv](https://arxiv.org/abs/1803.05258).
 - Feb18: CSGAN [code](https://github.com/po0ya/csgan) is released.
 - Feb18: This [paper](https://arxiv.org/abs/1802.00420) claims wrongly that it breaks DefenseGAN.
 - Jan18: Happy to see the ICLR18 oral paper [AmbientGAN](https://openreview.net/forum?id=Hy7fDog0b) is very related to Algorithm 2 of our AAAI18 paper.
