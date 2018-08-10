@@ -22,11 +22,11 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "BSc in Software Engineering"
+  course = "B.Sc. in Software Engineering"
   institution = "Sharif University of Technology, Tehran, Iran"
   year = 2013
  
 +++
 
 # Biography
-Pouya is a Ph.D. candidate at the University of Maryland, College Park. He is honored to be advised by [Rama Chellappa](http://www.cfar.umd.edu/~rama/) to work on various computer vision and machine learning problems. He started by desiging efficient multi-task part based networks for face attribute detection and active authentication. Then he worked on making face detection efficient and accurate. Recently he has been playing with Generative Adversarial Networks for reconstructing lossy measurements and also to defend agains adversarial noises. He does not think AI is a threat to human kind. He tries to keep an updated version of his resume [here](http://www.umiacs.umd.edu/~pouya/resume.pdf).
+Got my Ph.D. at the University of Maryland, College Park, under supervision of [Rama Chellappa](http://www.cfar.umd.edu/~rama/). I worked on various computer vision and machine learning problems while doing my Ph.D.: attribute detection for mobile phones, face detection, compressed sensing with GANs, defending deep networks using GANs, and explaining black-box classifiers with GANs. Now a machine learning scientist at [Butterfly Network](http://butterflynetwork.com) working with [Nathan Silberman](https://cs.nyu.edu/~silberman/) to make medical imaging intelligent, cheap, and accessible. I try to keep an updated version of my resume [here](http://www.umiacs.umd.edu/~pouya/resume.pdf).

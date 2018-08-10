@@ -11,11 +11,10 @@ subtitle = ""
 weight = 65
 
 +++
-Upcoming:
-- Apr18: DefenseGAN source code will be released.
-- Mar18: Face-MagNet code will be released.
-
-Past:
+- Jul18: Officially Dr. Pouya Samangouei.
+- Jul18: Explain-GAN is accepted in ECCV18.
+- Apr18: Defense-GAN [code](http://github.com/kabkabm/defensegan) is released.
+- Mar18: Face-Magnet [code](http://github.com/po0ya/face-magnet) is released.
 - Mar18: Face-MagNet paper is published in WACV18 and is on [arxiv](https://arxiv.org/abs/1803.05258).
 - Feb18: CSGAN [code](https://github.com/po0ya/csgan) is released.
 - Feb18: This [paper](https://arxiv.org/abs/1802.00420) claims wrongly that it breaks DefenseGAN.
